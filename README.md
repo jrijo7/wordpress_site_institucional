@@ -4,7 +4,7 @@
 
 Este projeto consiste no desenvolvimento de um site institucional utilizando WordPress. O design do site foi encontrado na comunidade do Figma e implementado em WordPress usando o plugin Elementor Pro. Embora o layout tenha sido criado por outra pessoa, ele foi adaptado e configurado para atender às necessidades do site institucional.
 
-![Cover](https://github.com/jrijo7/wordpress_site_institucional/Cover.png)
+![Cover](https://github.com/jrijo7/wordpress_site_institucional/blob/main/Cover.png)
 
 ## Tecnologias Utilizadas
 
