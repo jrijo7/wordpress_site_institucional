@@ -14,6 +14,6 @@ Este projeto consiste no desenvolvimento de um site institucional utilizando Wor
 
 ## Contato
 
-João Rijo - [seu-email@example.com](mailto:joaovictor_gomes.7@hotmail.com)
+João Rijo - [joaovictor_gomes.7@hotmail.com](mailto:joaovictor_gomes.7@hotmail.com)
 
-Link do Projeto: [https://github.com/seu-usuario/projeto-wordpress](https://github.com/jrijo7/wordpress_site_institucional)
+Link do Projeto: [https://github.com/jrijo7/wordpress_site_institucional](https://github.com/jrijo7/wordpress_site_institucional)
